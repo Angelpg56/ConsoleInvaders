@@ -1,0 +1,14 @@
+E:\Programacion\VisualStudio\ConsoleInvaders\ConsoleInvaders\bin\Release\net8.0\ConsoleInvaders.exe
+E:\Programacion\VisualStudio\ConsoleInvaders\ConsoleInvaders\bin\Release\net8.0\ConsoleInvaders.deps.json
+E:\Programacion\VisualStudio\ConsoleInvaders\ConsoleInvaders\bin\Release\net8.0\ConsoleInvaders.runtimeconfig.json
+E:\Programacion\VisualStudio\ConsoleInvaders\ConsoleInvaders\bin\Release\net8.0\ConsoleInvaders.dll
+E:\Programacion\VisualStudio\ConsoleInvaders\ConsoleInvaders\bin\Release\net8.0\ConsoleInvaders.pdb
+E:\Programacion\VisualStudio\ConsoleInvaders\ConsoleInvaders\obj\Release\net8.0\ConsoleInvaders.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programacion\VisualStudio\ConsoleInvaders\ConsoleInvaders\obj\Release\net8.0\ConsoleInvaders.AssemblyInfoInputs.cache
+E:\Programacion\VisualStudio\ConsoleInvaders\ConsoleInvaders\obj\Release\net8.0\ConsoleInvaders.AssemblyInfo.cs
+E:\Programacion\VisualStudio\ConsoleInvaders\ConsoleInvaders\obj\Release\net8.0\ConsoleInvaders.csproj.CoreCompileInputs.cache
+E:\Programacion\VisualStudio\ConsoleInvaders\ConsoleInvaders\obj\Release\net8.0\ConsoleInvaders.dll
+E:\Programacion\VisualStudio\ConsoleInvaders\ConsoleInvaders\obj\Release\net8.0\refint\ConsoleInvaders.dll
+E:\Programacion\VisualStudio\ConsoleInvaders\ConsoleInvaders\obj\Release\net8.0\ConsoleInvaders.pdb
+E:\Programacion\VisualStudio\ConsoleInvaders\ConsoleInvaders\obj\Release\net8.0\ConsoleInvaders.genruntimeconfig.cache
+E:\Programacion\VisualStudio\ConsoleInvaders\ConsoleInvaders\obj\Release\net8.0\ref\ConsoleInvaders.dll
